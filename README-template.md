@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Add in all the html elements, working from the biggest sections to the individual elements.
 - Arranging text in the appropriate element.
--
+- Add the empty css blocks in order of how the classes/elements appear in the html
 
 ### Built with
 
