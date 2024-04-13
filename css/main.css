@@ -1,4 +1,64 @@
-/** Attribution Styles **/
+/** Global Styles **/
+:root {
+}
+
+html {
+}
+
+body {
+}
+
+h2 {
+}
+
+.content-wrapper {
+}
+/** Header Styles **/
+header {
+}
+
+figure {
+}
+
+figure img {
+}
+
+/** Main Styles **/
+main {
+}
+
+/** Introduction Section Styles **/
+.introduction {
+}
+.introduction h1 {
+}
+.introduction .description {
+}
+
+/** Aside Styles **/
+aside {
+}
+aside .aside-title {
+}
+
+aside ul li {
+}
+/** Ingredient Section Styles **/
+.ingredients {
+}
+.ingredients ul li {
+}
+/** Instructions Styles **/
+.instructions {
+}
+
+.instructions ol li {
+}
+
+/** Nutrition Section Styles **/
+.nutrition {
+}
+/** Attribution/Footer Styles **/
 .attribution {
   font-size: 11px;
   text-align: center;
