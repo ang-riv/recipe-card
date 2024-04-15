@@ -5,18 +5,20 @@
 html {
   box-sizing: border-box;
   font-size: 16px;
-  margin: 1px;
+  margin: 0;
   padding: 0;
 }
 
 body {
-  outline: 3px dotted orange;
-  margin: 2px;
+  margin: 0px;
   padding: 0;
   line-height: 1.5;
+  font-family: "Outfit", sans-serif;
 }
 
+h1,
 h2 {
+  font-family: "Young Serif", sans-serif;
 }
 
 .content-wrapper {
@@ -47,7 +49,6 @@ figure {
   padding: 0;
   width: 100%;
   height: fit-content;
-  outline: 2px dotted red;
 }
 
 figure img {
