@@ -108,15 +108,21 @@ aside ul li {
 }
 
 .nutrition table {
+  border-collapse: collapse;
   width: 100%;
 }
 
 .nutrition table td:not(.col-values) {
   padding-left: 15px;
 }
-.nutrition table td:not(.last-row) {
+.nutrition table td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.nutrition table tr:not(.last-row) {
   border-bottom: 1px solid lightgrey;
 }
+
 /** Attribution/Footer Styles **/
 .attribution {
   font-size: 11px;
