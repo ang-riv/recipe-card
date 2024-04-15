@@ -106,6 +106,17 @@ aside ul li {
 /** Nutrition Section Styles **/
 .nutrition {
 }
+
+.nutrition table {
+  width: 100%;
+}
+
+.nutrition table td:not(.col-values) {
+  padding-left: 15px;
+}
+.nutrition table td:not(.last-row) {
+  border-bottom: 1px solid lightgrey;
+}
 /** Attribution/Footer Styles **/
 .attribution {
   font-size: 11px;
