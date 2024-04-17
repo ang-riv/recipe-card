@@ -71,8 +71,6 @@ li::marker {
 }
 
 /** Header Styles **/
-header {
-}
 
 figure {
   margin: 0;
@@ -87,13 +85,7 @@ figure img {
   object-fit: contain;
 }
 
-/** Main Styles **/
-main {
-}
-
 /** Introduction Section Styles **/
-.introduction {
-}
 
 .introduction h1 {
   color: var(--dark-charcoal);
@@ -122,19 +114,13 @@ aside ul {
   padding: 0 20px;
 }
 
-aside ul li {
-}
 /** Ingredient Section Styles **/
-.ingredients {
-}
 
 .ingredients ul {
   margin: 0;
   padding-left: 20px;
 }
 /** Instructions Styles **/
-.instructions {
-}
 
 .instructions ol {
   margin: 0;
@@ -146,8 +132,6 @@ aside ul li {
 }
 
 /** Nutrition Section Styles **/
-.nutrition {
-}
 
 .nutrition table {
   border-collapse: collapse;
