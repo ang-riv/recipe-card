@@ -14,8 +14,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Desktop](/screenshots/recipe-page-desktop.png)
-![Mobile](/screenshots/recipe-page-mobile.png)
+![Desktop](/screenshots/recipe-card-desktop.png)
+![Mobile](/screenshots/recipe-card-mobile.png)
 
 ### Links
 
