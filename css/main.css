@@ -23,7 +23,7 @@ body {
   line-height: 1.5;
   font-family: "Outfit", sans-serif;
   color: var(--wenge-brown);
-  background-color: var(--eggshell);
+  background-color: var(--white);
   display: flex;
   justify-content: center;
   flex-flow: column wrap;
@@ -181,6 +181,9 @@ aside ul li {
 }
 
 @media (min-width: 767px) {
+  body {
+    background-color: var(--eggshell);
+  }
   .recipe-card {
     margin: 100px 0px;
     border-radius: 20px;
