@@ -108,6 +108,7 @@ main {
 aside {
   background-color: hsl(330, 100%, 98%);
   padding: 20px 30px;
+  border-radius: 15px;
 }
 aside .aside-title {
   margin-top: 0;
@@ -137,7 +138,7 @@ aside ul li {
 
 .instructions ol {
   margin: 0;
-  padding: 0 5px 0 20px;
+  padding: 0 0 0 20px;
 }
 
 .instructions li::marker {
@@ -199,14 +200,10 @@ aside ul li {
   figure {
     margin: 35px 35px 0 35px;
     width: 640px;
-    border-radius: 10px;
+    border-radius: 15px;
   }
 
   figure img {
-    border-radius: 10px;
-  }
-
-  aside {
     border-radius: 15px;
   }
 }
