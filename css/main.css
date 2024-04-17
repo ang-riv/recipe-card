@@ -34,7 +34,6 @@ body {
   max-width: 700px;
   max-height: max-content;
   background-color: var(--white);
-  margin: 100px 0px;
 }
 
 h1,
@@ -181,5 +180,29 @@ aside ul li {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 786px) {
+@media (min-width: 767px) {
+  .recipe-card {
+    margin: 100px 0px;
+    border-radius: 20px;
+  }
+
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  figure {
+    margin: 35px 35px 0 35px;
+    width: 640px;
+    border-radius: 10px;
+  }
+
+  figure img {
+    border-radius: 10px;
+  }
+
+  aside {
+    border-radius: 15px;
+  }
 }
