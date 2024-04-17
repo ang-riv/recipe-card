@@ -39,9 +39,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+- Start with the mobile version.
 - Add in all the html elements, working from the biggest sections to the individual elements.
 - Arranging text in the appropriate element.
 - Add the empty css blocks in order of how the classes/elements appear in the html
+- Figure out how to spacing around the bigger sections then smaller elements like list items. Usually working from top to bottom and with in each section of the recipe card.
+- Add in some of the styles from the style guide and adjust when needed for font sizes, spacing, etc.
 
 ### Built with
 
