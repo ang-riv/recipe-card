@@ -23,6 +23,18 @@ body {
   line-height: 1.5;
   font-family: "Outfit", sans-serif;
   color: var(--wenge-brown);
+  background-color: var(--eggshell);
+  display: flex;
+  justify-content: center;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+.recipe-card {
+  max-width: 700px;
+  max-height: max-content;
+  background-color: var(--white);
+  margin: 100px 0px;
 }
 
 h1,
@@ -167,4 +179,7 @@ aside ul li {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media (min-width: 786px) {
 }
